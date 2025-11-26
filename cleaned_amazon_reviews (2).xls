@@ -1,0 +1,9 @@
+review_id,user_id,product_id,category,subcategory,rating,review_text,timestamp,price,brand,helpful_votes,verified_purchase,sentiment,country,product_title,summary_auto,rating_normalized,clean_review,clean_summary
+1,8270,858994,Electronics,Mobile,1,Average experience.,2023-01-01 00:00:00,1321.1,Nike,78,No,Negative,India,T-Shirt,,0.0,average experience,
+2,1860,749714,Beauty,Action,1,Exceeded expectations!,2023-01-01 01:00:00,1775.14,Nike,98,Yes,Positive,Australia,Wireless Headphones,,0.0,exceeded expectations,
+3,6390,688315,Home,Clothing,1,Not worth the money.,2023-01-01 02:00:00,924.48,Dell,174,No,Neutral,USA,Wireless Headphones,,0.0,not worth the money,
+4,6191,551122,Fashion,Clothing,3,Very disappointing.,2023-01-01 03:00:00,2950.09,Nike,37,No,Neutral,Canada,Face Cream,,0.5,very disappointing,
+6,7265,192601,Electronics,Fiction,2,Fantastic product! Will buy again.,2023-01-01 05:00:00,3831.15,Apple,175,No,Neutral,USA,T-Shirt,,0.25,fantastic product will buy again,
+8,5426,338340,Books,Action,3,"Great product, highly recommended!",2023-01-01 07:00:00,122.07,Sony,116,No,Neutral,Canada,Wireless Headphones,,0.5,great product highly recommended,
+15,6311,139279,Movies,Kitchen,2,Good quality and fast delivery.,2023-01-01 14:00:00,4555.24,Lakme,36,Yes,Neutral,India,T-Shirt,,0.25,good quality and fast delivery,
+19,5555,873887,Electronics,Skincare,3,Value for money.,2023-01-01 18:00:00,1707.54,Local,141,No,Negative,Australia,Novel Book,,0.5,value for money,
